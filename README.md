@@ -1,1 +1,1 @@
-the root repository
+The root repository
